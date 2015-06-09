@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="ButtonColor" parent="Theme.AppCompat.Light.DarkActionBar">
+                <item name="android:layout_width">fill_parent</item>
+                <item name="android:layout_height">wrap_content</item>
+                <item name="android:layout_gravity">center</item>
+                <item name="android:textSize">24sp</item>
+                <item name="android:padding">8dp</item>
+                <item name="android:layout_marginTop">16dp</item>
+                <item name="android:layout_marginLeft">24dp</item>
+                <item name="android:layout_marginRight">24dp</item>
+                <item name="android:background">#F08C85</item>
+                <item name="android:elevation">20dp</item>>
+
+        </style>
+</resources>
